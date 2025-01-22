@@ -11,3 +11,4 @@
 /debian/build/lib/.libs/libublksrv.so.0 /usr/lib
 /debian/build/lib/.libs/libublksrv.so.0.0.0 /usr/lib
 /debian/build/ublk /usr/bin
+/debian/build/.libs/ublk /usr/bin/.libs/
