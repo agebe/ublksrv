@@ -1,0 +1,5 @@
+dpkg --contents ublksrv_1.0_amd64.deb
+dpkg -L ublksrv
+sudo apt install -f ./ublksrv_1.0_amd64.deb
+sudo apt remove ublksrv
+sudo apt list --installed | grep ublk
