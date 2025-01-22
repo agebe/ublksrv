@@ -1,4 +1,9 @@
 #!/usr/bin/make -f
 
+override_dh_installdeb:
+	dh_installdeb
+	# Ensure postinst is included
+	dh_installdeb -p ublksrv
+
 %:
 	dh $@
