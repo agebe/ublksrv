@@ -1,0 +1,10 @@
+/local/
+/ublksrv_*
+/ublksrv-dbgsym_*_amd64.deb
+/ublksrv/debian/.debhelper/
+/ublksrv/debian/build/
+/ublksrv/debian/debhelper-build-stamp
+/ublksrv/debian/files
+/ublksrv/debian/ublksrv.debhelper.log
+/ublksrv/debian/ublksrv.substvars
+/ublksrv/debian/ublksrv/
