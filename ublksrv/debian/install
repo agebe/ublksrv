@@ -5,6 +5,7 @@
 /debian/build/include/ublksrv_tgt_endian.h /usr/include
 /debian/build/include/ublksrv_tgt.h /usr/include
 /debian/build/include/ublksrv_utils.h /usr/include
+/debian/build/config.h /usr/include/ublksrv/
 /debian/build/lib/.libs/libublksrv.a /usr/lib
 /debian/build/lib/.libs/libublksrv.lai /usr/lib
 /debian/build/lib/.libs/libublksrv.so /usr/lib
