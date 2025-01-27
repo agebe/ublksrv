@@ -1,3 +1,8 @@
+debian 12 package for [ublksrv](https://github.com/ublk-org/ublksrv)
+
+the package installs the ublk binary, libraries and headers.
+
+some helpful commands:
 dpkg --contents ublksrv_1.0_amd64.deb
 dpkg -L ublksrv
 sudo apt install -f ./ublksrv_1.0_amd64.deb
